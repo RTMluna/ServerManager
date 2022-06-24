@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5SIS3LSfk+1L7dQCNSAFFeTkJqATR3eV0/jwjm2VMAG1nOiyEQVB+E5XOqJfKsvpqkzZgVRKLXXWBI9waoAVcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\midkees\\Documents\\GitHub\\ServerManager\\ServerUserDataJson\\ServerUserDataJson\\ServerUserDataJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\midkees\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

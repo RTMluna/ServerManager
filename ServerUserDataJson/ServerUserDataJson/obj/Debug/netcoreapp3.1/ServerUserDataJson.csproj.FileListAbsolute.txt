@@ -1,0 +1,16 @@
+C:\Users\midkees\Documents\GitHub\ServerManager\ServerUserDataJson\ServerUserDataJson\bin\Debug\netcoreapp3.1\ServerUserDataJson.exe
+C:\Users\midkees\Documents\GitHub\ServerManager\ServerUserDataJson\ServerUserDataJson\bin\Debug\netcoreapp3.1\ServerUserDataJson.deps.json
+C:\Users\midkees\Documents\GitHub\ServerManager\ServerUserDataJson\ServerUserDataJson\bin\Debug\netcoreapp3.1\ServerUserDataJson.runtimeconfig.json
+C:\Users\midkees\Documents\GitHub\ServerManager\ServerUserDataJson\ServerUserDataJson\bin\Debug\netcoreapp3.1\ServerUserDataJson.runtimeconfig.dev.json
+C:\Users\midkees\Documents\GitHub\ServerManager\ServerUserDataJson\ServerUserDataJson\bin\Debug\netcoreapp3.1\ServerUserDataJson.dll
+C:\Users\midkees\Documents\GitHub\ServerManager\ServerUserDataJson\ServerUserDataJson\bin\Debug\netcoreapp3.1\ServerUserDataJson.pdb
+C:\Users\midkees\Documents\GitHub\ServerManager\ServerUserDataJson\ServerUserDataJson\obj\Debug\netcoreapp3.1\ServerUserDataJson.csproj.AssemblyReference.cache
+C:\Users\midkees\Documents\GitHub\ServerManager\ServerUserDataJson\ServerUserDataJson\obj\Debug\netcoreapp3.1\ServerUserDataJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\midkees\Documents\GitHub\ServerManager\ServerUserDataJson\ServerUserDataJson\obj\Debug\netcoreapp3.1\ServerUserDataJson.AssemblyInfoInputs.cache
+C:\Users\midkees\Documents\GitHub\ServerManager\ServerUserDataJson\ServerUserDataJson\obj\Debug\netcoreapp3.1\ServerUserDataJson.AssemblyInfo.cs
+C:\Users\midkees\Documents\GitHub\ServerManager\ServerUserDataJson\ServerUserDataJson\obj\Debug\netcoreapp3.1\ServerUserDataJson.csproj.CoreCompileInputs.cache
+C:\Users\midkees\Documents\GitHub\ServerManager\ServerUserDataJson\ServerUserDataJson\obj\Debug\netcoreapp3.1\ServerUserDataJson.dll
+C:\Users\midkees\Documents\GitHub\ServerManager\ServerUserDataJson\ServerUserDataJson\obj\Debug\netcoreapp3.1\ServerUserDataJson.pdb
+C:\Users\midkees\Documents\GitHub\ServerManager\ServerUserDataJson\ServerUserDataJson\obj\Debug\netcoreapp3.1\ServerUserDataJson.genruntimeconfig.cache
+C:\Users\midkees\Documents\GitHub\ServerManager\ServerUserDataJson\ServerUserDataJson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\midkees\Documents\GitHub\ServerManager\ServerUserDataJson\ServerUserDataJson\obj\Debug\netcoreapp3.1\ServerUserDataJson.csproj.CopyComplete
